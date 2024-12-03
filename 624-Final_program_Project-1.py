@@ -1,7 +1,6 @@
 
-#AUTHOR NAME : NISHIT PARMAR
+#AUTHOR NAME : Dola Sushma
 #ANALYSIS ON INDIAN SUICIDES : YEAR: 2001-2012
-#CWID: 10432431
 
 import matplotlib.pyplot as plt
 import numpy as np 
